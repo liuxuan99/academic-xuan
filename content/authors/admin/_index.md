@@ -45,8 +45,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/liuxuan360/
-- icon: graduation-cap
-  icon_pack: fab
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=XbtWYioAAAAJ&hl=en
 # - icon: github
 #  icon_pack: fab
