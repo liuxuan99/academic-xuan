@@ -38,12 +38,12 @@ date_format = "Jan 2006"
   GPA: 86.39/100
   
   GREAT Winter Intensive Short Course in University of California, Davis (Feb. 2019)
-  * Outstanding Graduates (Top 10%)         --- Apr. 2020
-  * Excellent Social Worker (Top 10%)       --- Sep. 2019
-  * The Third Prize Scholarship             --- Sep. 2019
-  * Excellent Student (Top 10%)             --- Sep. 2018
-  * The Second Prize Scholarship (Top 10%)  --- Sep. 2018
-  * The Third Prize Scholarship             --- Sep. 2017
+  * Outstanding Graduates (Top 10%)         -- Apr. 2020
+  * Excellent Social Worker (Top 10%)       -- Sep. 2019
+  * The Third Prize Scholarship             -- Sep. 2019
+  * Excellent Student (Top 10%)             -- Sep. 2018
+  * The Second Prize Scholarship (Top 10%)  -- Sep. 2018
+  * The Third Prize Scholarship             -- Sep. 2017
   """
 
 +++
