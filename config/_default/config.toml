@@ -14,7 +14,7 @@ baseurl = "https://liuxuan.xyz/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} liuxuan.xyz "
+copyright = "&copy; 2017-{year} liuxuan.xyz [陕ICP备17019794号](https://beian.miit.gov.cn/)"
 
 ############################
 ## Advanced options below ##
