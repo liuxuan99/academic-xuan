@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "MS in Chemical Engineering"
+  company = "University of Illinois at Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Chicago, Illinois, U.S."
+  date_start = "2019-08-13"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "BEng in Chemical Engineering"
+  company = "Xi’an Jiaotong University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Xi’an, Shaanxi, China"
+  date_start = "2016-08-21"
+  date_end = "2020-05-31"
+  description = """
+  GPA: 86.39/100
+  GREAT Winter Intensive Short Course in University of California, Davis (Feb. 2019)
+  * Outstanding Graduates (Top 10%) <div style="text-align: right">Apr. 2020</div>
+  """
 
 +++
