@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Education"
 subtitle = ""
@@ -36,7 +36,6 @@ date_format = "Jan 2006"
   date_end = "2020-05-31"
   description = """
   GPA: 86.39/100
-  
   GREAT Winter Intensive Short Course in University of California, Davis (Feb. 2019)
   * Outstanding Graduates (Top 10%)         -- Apr. 2020
   * Excellent Social Worker (Top 10%)       -- Sep. 2019
