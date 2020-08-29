@@ -30,7 +30,7 @@ subtitle = ""
   
 [[feature]]
   icon = "palette"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Design"
   description = "UI Design with Adobe Photoshop and Illustrator. Video Edit with Adobe Premiere."
   
