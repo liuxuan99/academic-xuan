@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "XJTU"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "Honorable Mention, Extracurricular Academic Science and Technology Competition"
   url = ""
   certificate_url = ""
