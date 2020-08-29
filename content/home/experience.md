@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Education"
-subtitle = "Education"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_end = "2020-05-31"
   description = """
   GPA: 86.39/100  
-  GREAT Winter Intensive Short Course in University of California, Davis (Feb. 2019)
+  GREAT Winter Intensive Short Course at University of California, Davis (Feb. 2019)
   * Outstanding Graduates (Top 10%)         -- Apr. 2020
   * Excellent Social Worker (Top 10%)       -- Sep. 2019
   * The Third Prize Scholarship             -- Sep. 2019
