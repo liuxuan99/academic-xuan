@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Sixth & Outstanding Teamwork Award, China Chem-E-Car Competition"
   url = ""
   certificate_url = ""
-  date_start = "2019-5-30"
+  date_start = "2019-05-30"
   date_end = ""
   description = ""
 
