@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Education"
-subtitle = ""
+subtitle = "Education"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-13"
   date_end = ""
   description = """
+  GPA: 3.87/4
   """
 
 [[experience]]
@@ -35,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2016-08-21"
   date_end = "2020-05-31"
   description = """
-  GPA: 86.39/100
+  GPA: 86.39/100  
   GREAT Winter Intensive Short Course in University of California, Davis (Feb. 2019)
   * Outstanding Graduates (Top 10%)         -- Apr. 2020
   * Excellent Social Worker (Top 10%)       -- Sep. 2019
