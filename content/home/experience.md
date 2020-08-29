@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-21"
   date_end = "2019-07-31"
   description = """
-  * Designed and synthesized sulfur cathode of FeSe_\x for lithium-sulfur batteries
+  * Designed and synthesized sulfur cathode of FeSe_x for lithium-sulfur batteries
   * Assembled cells for testing
 
   """
