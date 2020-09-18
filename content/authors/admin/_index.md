@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include soft matter, mathematical and computer modeling, machine learning.
+bio: My research interests include soft matter, mathematical and computer modeling, machine learning, etc.
 
 interests:
 - Soft Matter
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: http://n.liuxuan.xyz/cv
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Xuan Liu is a MS student of chemical engineering at the UIC Biomaterials Lab. His research interests include soft matter, mathematical and computer modeling, machine learning.
+I am a MS student of chemical engineering at the UIC Biomaterials Lab. His research interests include soft matter, mathematical and computer modeling, machine learning, etc.
